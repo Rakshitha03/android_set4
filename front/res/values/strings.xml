@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">front</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="instructions">
+        " INSTRUCTIONS\n        1. The game consists of 16 cards and 4 players, where you are the user.\n2. On each card is printed a number: either 1,2,3 or 4. \n    These are NOT cards from the standard deck of 52 cards.\n        3. Four cards will be randomly distributed to each player at the beginning of\n     a game.\n4. To win, you must make a set, i.e., you must hold four cards having the same \n     number(such as four 1s or four 2s etc.)\n5. Click on a card you do not want to make a set of. \n     This card will be passed to the player on your left.\n6. The next player will pass it to the player on his left and so on until you \n     receive a card from the player on your right.\n7. You may pass on the received card if you do not want it or choose to pass a \n    different card. Continue passing and receiving until there is a winner.\n8. Winner bags 10 points, losers lose 2 \n9. By clicking on the 'Score' button, the scores of your previous game will be \n     displayed. \n10.By clicking on the 'Play again' option, a new game begins, and the scores of \n      the previous game are saved"</string>
+    
+</resources>
