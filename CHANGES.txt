@@ -1,0 +1,10 @@
+Done with animation
+Done with generating random numbers for cards and displaying for user
+
+To do:
+
+Everything works only for single player now. For multiplayer, major class shifting and creation may be necessary.
+Game logic implementation - if using same methods, only methods to be called in proper places.
+If not using same methods, then to rewrite :P
+
+
