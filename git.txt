@@ -1,0 +1,11 @@
+https://github.com/rashrag/android_set4.git
+
+cd into dir
+
+git pull
+git add newfile
+git commit -a
+git push origin master
+
+SanjanaShankar
+pikachu801
